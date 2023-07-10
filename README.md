@@ -1,8 +1,8 @@
 # ParadoxEpoch
 
-<a href="https://twitter.com/ParadoxEpoch/" target="_blank"><img src="https://img.shields.io/twitter/follow/ParadoxEpoch" alt="Twitter Badge"/></a>
-<a href="https://www.linkedin.com/in/tristangauci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://codepen.com/paradoxepoch" target="_blank"><img src="https://img.shields.io/badge/CodePen-blue?logo=codepen&logoColor=white" alt="CodePen Badge"/></a>
+<a href="https://twitter.com/ParadoxEpoch/"><img src="https://img.shields.io/twitter/follow/ParadoxEpoch" alt="Twitter Badge"/></a>
+<a href="https://www.linkedin.com/in/tristangauci/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://codepen.com/paradoxepoch"><img src="https://img.shields.io/badge/CodePen-blue?logo=codepen&logoColor=white" alt="CodePen Badge"/></a>
 
 ### Hi there 👋
 
