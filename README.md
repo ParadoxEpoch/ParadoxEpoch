@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I'm available for hire. Feel free to get in touch with me on [X](https://twitter.com/ParadoxEpoch/) or [LinkedIn](https://www.linkedin.com/in/tristangauci/).
+I'm available for hire. Feel free to get in touch with me on [X (Twitter)](https://twitter.com/ParadoxEpoch/) or [LinkedIn](https://www.linkedin.com/in/tristangauci/).
 
 I also have a profile on [CodePen](https://codepen.com/paradoxepoch) with UI components and other small tidbits that I've worked on. For my bigger projects, check out the *experience* page on my LinkedIn profile or the pinned repositories below.
 
